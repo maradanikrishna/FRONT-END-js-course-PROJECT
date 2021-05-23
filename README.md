@@ -26,5 +26,16 @@ this is font emphasis
  
  ![TAJ MAHAL](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
  
- [google](https://www.google.com/)
+ [google](https://www.google.com
  
+ ~~~python
+ def fun():
+  print("hai")
+ ~~~
+ 
+ Table 1 | Table 2
+ ------- | -------
+ Table body1 | Table body 2
+ madhava     |  4th class
+ madhavi     |  4th class
+ murali kris | MCA
