@@ -25,4 +25,6 @@ this is font emphasis
     3. integers
  
  ![TAJ MAHAL](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
- ding 6
+ 
+ [google](https://www.google.com/)
+ 
