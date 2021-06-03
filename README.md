@@ -39,3 +39,5 @@ this is font emphasis
  madhava     |  4th class
  madhavi     |  4th class
  murali kris | MCA
+ durga       |  10 class
+ 
